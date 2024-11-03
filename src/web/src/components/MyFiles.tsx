@@ -17,7 +17,7 @@ const MyFiles = () => {
   }, []);
 
   return <>
-    <h1>MyFiles</h1>
+    <h1>My Files</h1>
     <div>
       {isLoading
           ? <p>Loading...</p>
